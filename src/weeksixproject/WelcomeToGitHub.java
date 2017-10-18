@@ -9,7 +9,7 @@ package weeksixproject;
  *
  * @author Zaharadeen Shagai
  */
-public class WeekSixProject {
+public class WelcomeToGitHub {
 
     /**
      * @param args the command line arguments
